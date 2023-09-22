@@ -7,8 +7,8 @@ Creado en HTML y CSS, también una pizca de JavaScript para devolver al usuario 
 El sitio web original suele cambiar con bastante frecuencia.
 
 [![Sitio Original](https://img.shields.io/static/v1?label=&message=Sitio%20Original&color=FF0000&style=for-the-badge)](https://www.wiggle.es)
-[![Despliegue](https://img.shields.io/static/v1?label=&message=Github%20Pages&color=00A50C&style=for-the-badge)](https://jaamdev.github.io/wiggle-project)
-[![Repo en Github](https://img.shields.io/static/v1?label=&message=Repo%20Github&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaamdev/wiggle-project)
+[![Despliegue](https://img.shields.io/static/v1?label=&message=Github%20Pages&color=00A50C&style=for-the-badge)](https://jaamdev.github.io/bicis-project)
+[![Repo en Github](https://img.shields.io/static/v1?label=&message=Repo%20Github&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaamdev/bicis-project)
 
 ## Tecnologías Usadas
 ![HTML](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=html5&logoColor=white&style=for-the-badge)
